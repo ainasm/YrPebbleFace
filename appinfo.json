@@ -1,0 +1,258 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        "location",
+        "configurable"
+    ],
+    "companyName": "aina@smavik.no",
+    "longName": "YrWatchFace",
+    "projectType": "pebblejs",
+    "resources": {
+        "media": [
+            {
+                "file": "images/menu_icon.png",
+                "menuIcon": true,
+                "name": "IMAGE_MENU_ICON",
+                "type": "bitmap"
+            },
+            {
+                "file": "images/logo_splash.png",
+                "name": "IMAGE_LOGO_SPLASH",
+                "type": "bitmap"
+            },
+            {
+                "file": "images/tile_splash.png",
+                "name": "IMAGE_TILE_SPLASH",
+                "type": "bitmap"
+            },
+            {
+                "file": "fonts/UbuntuMono-Regular.ttf",
+                "name": "MONO_FONT_14",
+                "type": "font"
+            },
+            {
+                "file": "images/w_refreshing.png",
+                "name": "IMAGES_W_REFRESHING_PNG",
+                "type": "bitmap"
+            },
+            {
+                "file": "images/w_50.png",
+                "name": "IMAGES_W_50_PNG",
+                "type": "bitmap"
+            },
+            {
+                "file": "images/w_49.png",
+                "name": "IMAGES_W_49_PNG",
+                "type": "bitmap"
+            },
+            {
+                "file": "images/w_48.png",
+                "name": "IMAGES_W_48_PNG",
+                "type": "bitmap"
+            },
+            {
+                "file": "images/w_47.png",
+                "name": "IMAGES_W_47_PNG",
+                "type": "bitmap"
+            },
+            {
+                "file": "images/w_46.png",
+                "name": "IMAGES_W_46_PNG",
+                "type": "bitmap"
+            },
+            {
+                "file": "images/w_45.png",
+                "name": "IMAGES_W_45_PNG",
+                "type": "bitmap"
+            },
+            {
+                "file": "images/w_44.png",
+                "name": "IMAGES_W_44_PNG",
+                "type": "bitmap"
+            },
+            {
+                "file": "images/w_43.png",
+                "name": "IMAGES_W_43_PNG",
+                "type": "bitmap"
+            },
+            {
+                "file": "images/w_42.png",
+                "name": "IMAGES_W_42_PNG",
+                "type": "bitmap"
+            },
+            {
+                "file": "images/w_41.png",
+                "name": "IMAGES_W_41_PNG",
+                "type": "bitmap"
+            },
+            {
+                "file": "images/w_40.png",
+                "name": "IMAGES_W_40_PNG",
+                "type": "bitmap"
+            },
+            {
+                "file": "images/w_34.png",
+                "name": "IMAGES_W_34_PNG",
+                "type": "bitmap"
+            },
+            {
+                "file": "images/w_33.png",
+                "name": "IMAGES_W_33_PNG",
+                "type": "bitmap"
+            },
+            {
+                "file": "images/w_32.png",
+                "name": "IMAGES_W_32_PNG",
+                "type": "bitmap"
+            },
+            {
+                "file": "images/w_31.png",
+                "name": "IMAGES_W_31_PNG",
+                "type": "bitmap"
+            },
+            {
+                "file": "images/w_30.png",
+                "name": "IMAGES_W_30_PNG",
+                "type": "bitmap"
+            },
+            {
+                "file": "images/w_29.png",
+                "name": "IMAGES_W_29_PNG",
+                "type": "bitmap"
+            },
+            {
+                "file": "images/w_28.png",
+                "name": "IMAGES_W_28_PNG",
+                "type": "bitmap"
+            },
+            {
+                "file": "images/w_27.png",
+                "name": "IMAGES_W_27_PNG",
+                "type": "bitmap"
+            },
+            {
+                "file": "images/w_26.png",
+                "name": "IMAGES_W_26_PNG",
+                "type": "bitmap"
+            },
+            {
+                "file": "images/w_25.png",
+                "name": "IMAGES_W_25_PNG",
+                "type": "bitmap"
+            },
+            {
+                "file": "images/w_24.png",
+                "name": "IMAGES_W_24_PNG",
+                "type": "bitmap"
+            },
+            {
+                "file": "images/w_23.png",
+                "name": "IMAGES_W_23_PNG",
+                "type": "bitmap"
+            },
+            {
+                "file": "images/w_22.png",
+                "name": "IMAGES_W_22_PNG",
+                "type": "bitmap"
+            },
+            {
+                "file": "images/w_21.png",
+                "name": "IMAGES_W_21_PNG",
+                "type": "bitmap"
+            },
+            {
+                "file": "images/w_20.png",
+                "name": "IMAGES_W_20_PNG",
+                "type": "bitmap"
+            },
+            {
+                "file": "images/w_15.png",
+                "name": "IMAGES_W_15_PNG",
+                "type": "bitmap"
+            },
+            {
+                "file": "images/w_14.png",
+                "name": "IMAGES_W_14_PNG",
+                "type": "bitmap"
+            },
+            {
+                "file": "images/w_13.png",
+                "name": "IMAGES_W_13_PNG",
+                "type": "bitmap"
+            },
+            {
+                "file": "images/w_12.png",
+                "name": "IMAGES_W_12_PNG",
+                "type": "bitmap"
+            },
+            {
+                "file": "images/w_11.png",
+                "name": "IMAGES_W_11_PNG",
+                "type": "bitmap"
+            },
+            {
+                "file": "images/w_10.png",
+                "name": "IMAGES_W_10_PNG",
+                "type": "bitmap"
+            },
+            {
+                "file": "images/w_9.png",
+                "name": "IMAGES_W_9_PNG",
+                "type": "bitmap"
+            },
+            {
+                "file": "images/w_7.png",
+                "name": "IMAGES_W_7_PNG",
+                "type": "bitmap"
+            },
+            {
+                "file": "images/w_8.png",
+                "name": "IMAGES_W_8_PNG",
+                "type": "bitmap"
+            },
+            {
+                "file": "images/w_6.png",
+                "name": "IMAGES_W_6_PNG",
+                "type": "bitmap"
+            },
+            {
+                "file": "images/w_5.png",
+                "name": "IMAGES_W_5_PNG",
+                "type": "bitmap"
+            },
+            {
+                "file": "images/w_4.png",
+                "name": "IMAGES_W_4_PNG",
+                "type": "bitmap"
+            },
+            {
+                "file": "images/w_3.png",
+                "name": "IMAGES_W_3_PNG",
+                "type": "bitmap"
+            },
+            {
+                "file": "images/w_2.png",
+                "name": "IMAGES_W_2_PNG",
+                "type": "bitmap"
+            },
+            {
+                "file": "images/w_1.png",
+                "name": "IMAGES_W_1_PNG",
+                "type": "png"
+            }
+        ]
+    },
+    "sdkVersion": "3",
+    "shortName": "YrWatchFace",
+    "targetPlatforms": [
+        "aplite",
+        "basalt"
+    ],
+    "uuid": "038416cc-924f-40a7-b727-3360bf5e8719",
+    "versionCode": 1,
+    "versionLabel": "1.0",
+    "watchapp": {
+        "hiddenApp": false,
+        "watchface": false
+    }
+}
