@@ -1,8 +1,7 @@
 {
     "appKeys": {},
     "capabilities": [
-        "location",
-        "configurable"
+        "location"
     ],
     "companyName": "aina@smavik.no",
     "longName": "YrWatchFace",
@@ -11,7 +10,6 @@
         "media": [
             {
                 "file": "images/menu_icon.png",
-                "menuIcon": true,
                 "name": "IMAGE_MENU_ICON",
                 "type": "bitmap"
             },
@@ -162,6 +160,7 @@
             },
             {
                 "file": "images/w_20.png",
+                "menuIcon": true,
                 "name": "IMAGES_W_20_PNG",
                 "type": "bitmap"
             },
@@ -253,6 +252,6 @@
     "versionLabel": "1.0",
     "watchapp": {
         "hiddenApp": false,
-        "watchface": false
+        "watchface": true
     }
 }
